@@ -27,6 +27,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class BaseClass 
 {
 	
+	
 	public String un;
 	public String pwd;
 	public String timeout;
